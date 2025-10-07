@@ -1,4 +1,3 @@
-cat << EOF > README.md
 # 📚 Library Management System (BMS)
 
 A **desktop-based Library Management System** built using **Python, Tkinter, and CustomTkinter** with **Supabase** backend for database management.
@@ -123,6 +122,8 @@ BMS/
 
 ### Supabase Setup
 Make sure to update your **Supabase credentials** (Project URL, Anon/Service Role Key) in the \`database.py\` file before running the application.
+
+##THIS APP NEEDS MANY ADDONS AND UPDATED ACCORDING TO THE LATEST TECH
 
 ### GUI on Docker
 Sharing GUI applications via Docker can be complex. If you encounter issues viewing the GUI, refer to standard methods like **X11 forwarding** on Linux/macOS or utilizing the **VNC setup** provided in the \`docker\` folder.
