@@ -96,7 +96,7 @@ Use these credentials to log in to the system for the first time:
 
 ## 📁 Project Structure
 
-\`\`\`
+
 BMS/
 │
 ├─ admin/
@@ -114,7 +114,7 @@ BMS/
 ├─ requirements.txt       # Python package dependencies
 ├─ Dockerfile             # Instructions for building the Docker image
 └─ README.md              # This file
-\`\`\`
+
 
 ---
 
@@ -123,7 +123,7 @@ BMS/
 ### Supabase Setup
 Make sure to update your **Supabase credentials** (Project URL, Anon/Service Role Key) in the \`database.py\` file before running the application.
 
-##THIS APP NEEDS MANY ADDONS AND UPDATED ACCORDING TO THE LATEST TECH
+## THIS APP NEEDS MANY ADDONS AND UPDATED ACCORDING TO THE LATEST TECH
 
 ### GUI on Docker
 Sharing GUI applications via Docker can be complex. If you encounter issues viewing the GUI, refer to standard methods like **X11 forwarding** on Linux/macOS or utilizing the **VNC setup** provided in the \`docker\` folder.
