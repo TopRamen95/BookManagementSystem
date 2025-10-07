@@ -94,28 +94,6 @@ Use these credentials to log in to the system for the first time:
 
 ---
 
-## 📁 Project Structure
-
-
-BMS/
-│
-├─ admin/
-│   ├─ admin_login.py
-│   └─ admin_dashboard.py
-│
-├─ member/
-│   ├─ member_login.py
-│   ├─ member_register.py
-│   └─ member_dashboard.py
-│
-├─ assets/                # Images, logos, backgrounds
-├─ database.py            # Handles Supabase connection and database queries
-├─ main.py                # Main application entry point
-├─ requirements.txt       # Python package dependencies
-├─ Dockerfile             # Instructions for building the Docker image
-└─ README.md              # This file
-
-
 ---
 
 ## ⚡ Notes
