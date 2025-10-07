@@ -1,0 +1,7 @@
+customtkinter
+supabase
+pillow
+qrcode
+opencv-python
+pyzbar
+tkintertable  # for table-like display in admin/member dashboards
